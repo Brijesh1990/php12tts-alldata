@@ -9,4 +9,8 @@ https://git-scm.com/downloads/win
 
 step to upload backup on github.com repository
 
-step1:
+step1:git init
+step2:git add .
+step3:git commit-m '30-01-2025 all data uploaded'
+step4:git remote add origin https://github.com/Brijesh1990/php12tts-alldata.git
+step5:git push -u origin master
