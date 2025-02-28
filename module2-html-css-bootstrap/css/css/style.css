@@ -1,0 +1,13 @@
+body 
+{
+ background-color: lightskyblue;   
+}
+div 
+{
+ width: 60%;
+ height: auto;
+ margin: auto;
+ background-color: aliceblue;
+ padding: 40px;
+ margin-top: 5%;   
+}
